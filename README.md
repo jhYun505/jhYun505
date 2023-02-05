@@ -2,7 +2,7 @@
 <p align="center">
   Chungnam National University 🎓</br>
   Computer Science and Engineering 💻</br>
-  Interested in: Computer Security, Network, Backend 🔥</br>
+  Interested in: Computer Security, Network, Back-End 🔥</br>
 </p>
 <br>
 <h3 align="center">SNS List 🚀</h3>
@@ -43,4 +43,4 @@
 Github Stack
 </h3>
 
-![Jihyeon Yun's GitHub stats]{: .text-center}(https://github-readme-stats.vercel.app/api?username=jhYun505&count_private=true&show_icons=true) 
+![Jihyeon Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhYun505&count_private=true&show_icons=true) 
