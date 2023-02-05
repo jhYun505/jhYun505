@@ -4,10 +4,13 @@
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjhYun505%2Fhit-counter&count_bg=%2382A5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>  
   <br>
+  
+```
+  Chungnam National University 🎓
+  Computer Science and Engineering 💻
+  Interested in: Computer Security, Network, Back-End
+```
 
-  Chungnam National University 🎓</br>
-  Computer Science and Engineering 💻</br>
-  Interested in: Computer Security, Network, Back-End </br>
 </p>
 <br>
 <br>
