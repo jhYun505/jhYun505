@@ -46,7 +46,7 @@
 
 </p>
 
-<h3 align="center">SNS List 🚀</h3>
+<h3 align="center">More in... 🚀</h3>
 <p align="center">
   <a href="https://velog.io/@yun505">
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
