@@ -34,10 +34,12 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 
 <br>
-
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white">
 <br>
@@ -46,7 +48,7 @@
 
 </p>
 
-<h3 align="center">More in... 🚀</h3>
+<h3 align="center">More info 🚀</h3>
 <p align="center">
   <a href="https://velog.io/@yun505">
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
