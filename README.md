@@ -3,10 +3,13 @@
 <p align="center">
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjhYun505%2Fhit-counter&count_bg=%2382A5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>  
+  <br>
+
   Chungnam National University 🎓</br>
   Computer Science and Engineering 💻</br>
   Interested in: Computer Security, Network, Back-End </br>
 </p>
+<br>
 <br>
 
 <h3 align="center">
@@ -34,6 +37,7 @@
 
 
 <br>
+<br>
 
 <h3>🛠️ Tools & etc 🛠️</h3>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
@@ -52,7 +56,8 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Burp%20Suite-FD5300?style=flat-square&logo=Burp%20Suite&logoColor=white">
 <img src="https://img.shields.io/badge/WireShark-1679A7?style=flat-square&logo=WireShark&logoColor=white">
-<br>
+<br><br>
+
 
 </p>
 
@@ -61,15 +66,17 @@
   <a href="https://velog.io/@yun505">
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
+  <a href="https://remark-i.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  <br>
   <a href="https://www.linkedin.com/in/jihyeon-yun-06524b246"/>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
  <a href="mailto:jihyeon.yun505@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://remark-i.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
+  
 </p>
 <br>
 
