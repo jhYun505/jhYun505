@@ -24,11 +24,15 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 
-
 <br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white">
+
+
 <br>
 
 <h3>🛠️ Tools & etc 🛠️</h3>
@@ -36,16 +40,18 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white">
 
 <br>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white">
-<br>
-
+<img src="https://img.shields.io/badge/Burp%20Suite-FD5300?style=flat-square&logo=Burp%20Suite&logoColor=white">
+<img src="https://img.shields.io/badge/WireShark-1679A7?style=flat-square&logo=WireShark&logoColor=white">
 <br>
 
 </p>
