@@ -6,9 +6,10 @@
   <br>
   
 ```
-  Chungnam National University 🎓
-  Computer Science and Engineering 💻
-  Interested in: Computer Security, Network, Back-End
+Chungnam National University 🎓
+Computer Science and Engineering 💻
+Interested in: Computer Security, Network, Back-End
+Participated: IITP K-SW 2023 Winter Program(2022.01 ~ 2022.02)
 ```
 
 </p>
