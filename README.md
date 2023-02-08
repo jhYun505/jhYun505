@@ -5,6 +5,22 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjhYun505%2Fhit-counter&count_bg=%2382A5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>  
   <br>
   
+<p align="center">
+  <a href="https://velog.io/@yun505">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://remark-i.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jihyeon-yun-06524b246"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+ <a href="mailto:jihyeon.yun505@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  
+</p>
+
 ```
 Chungnam National University
 Computer Science and Engineering 💻
@@ -13,7 +29,6 @@ Participated: IITP K-SW 2023 Winter Program(2022.01~current)
 ```
 
 </p>
-<br>
 <br>
 
 <h3 align="center">
@@ -62,27 +77,8 @@ Participated: IITP K-SW 2023 Winter Program(2022.01~current)
 <img src="https://img.shields.io/badge/WireShark-1679A7?style=flat-square&logo=WireShark&logoColor=white">
 <br><br>
 
-
-</p>
-
-<h3 align="center">More info 🚀</h3>
-<p align="center">
-  <a href="https://velog.io/@yun505">
-    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-  </a>
-  <a href="https://remark-i.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/jihyeon-yun-06524b246"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
- <a href="mailto:jihyeon.yun505@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  
-</p>
 <br>
+</p>
 
 
 <h3 align="center">
