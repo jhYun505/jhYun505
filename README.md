@@ -25,7 +25,7 @@
 Chungnam National University
 Computer Science and Engineering 💻
 Interested in: Computer Security, Network, Back-End
-Participated: IITP K-SW 2023 Winter Program(2022.01~current)
+Participated: IITP K-SW 2023 Winter Program(2023.01~2023.02)
 ```
 
 </p>
