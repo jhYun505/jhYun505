@@ -24,8 +24,10 @@
 ```
 Chungnam National University
 Computer Science and Engineering 💻
-Interested in: Computer Security, Network, Back-End
-Participated: IITP K-SW 2023 Winter Program(2023.01~2023.02)
+Interested in: Computer Security, Network, Backend
+Participated in:
+- IITP K-SW 2023 Winter Program(2023.01~2023.02)
+- Software Development Intern @ Bertis Bioscience(San Diego, CA)
 ```
 
 </p>
