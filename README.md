@@ -23,8 +23,8 @@
 
 ```
 Chungnam National University
-Computer Science and Engineering 💻
-Interested in: Computer Security, Network, Backend
+Bachelor of Engineering in Computer Engineering 💻(Graduated: August 2024)
+Interested in: Backend, Computer Security, Network
 Participated in:
 - Elice Bootcamp Cloud Track 4기[2024.06~2024.12]
 - Software Development Intern @ Bertis Bioscience(San Diego, CA)[2023.10~2024.02]
